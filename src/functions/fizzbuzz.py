@@ -13,12 +13,12 @@ def buzz(x: int) -> str:
     return ""
 
 
-def fizzbuzz(x: list) -> list:
+def fizzbuzz(x: list[int]) -> list[str]:
     result = []
     for y in x:
         r = ""
         r = fizz(y) + buzz(y)
         if not r:
-            r = y
+            r = str(y)
         result.append(r)
     return result
