@@ -36,3 +36,9 @@ from functions.fizzbuzz import fizzbuzz
 # Example local function import
 for x in fizzbuzz(range(1, 26)):
     print(x)
+
+
+# %%
+# Example local function import
+for x in fizzbuzz(range(5, 9)):
+    print(x)
