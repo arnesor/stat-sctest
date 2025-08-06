@@ -1,0 +1,17 @@
+{
+  "template": "C:\\Users\\aei\\tmp\\..\\git\\ssb-project-template-stat",
+  "commit": "cb755269205ddab09327e44e59060c2586fb1ef3",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Ola Nordmann",
+      "email": "oln@ssb.no",
+      "project_name": "stat-sctest",
+      "description": "Vår statistikk er om X, og gjennomføres 1 gang i året",
+      "license_year": "2025",
+      "_template": "C:\\Users\\aei\\tmp\\..\\git\\ssb-project-template-stat",
+      "_commit": "cb755269205ddab09327e44e59060c2586fb1ef3"
+    }
+  },
+  "directory": null
+}
