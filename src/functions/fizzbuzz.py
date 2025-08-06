@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+from typing import Iterable
 
 
 def fizz(x: int) -> str:
@@ -13,7 +14,7 @@ def buzz(x: int) -> str:
     return ""
 
 
-def fizzbuzz(x: list[int]) -> list[str]:
+def fizzbuzz(x: Iterable[int]) -> list[str]:
     result = []
     for y in x:
         r = ""
